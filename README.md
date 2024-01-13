@@ -1,7 +1,7 @@
 
 <h2 align="center"> Hi, I'm ZhangXiaoYong &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px" height="30px"> <br/> </h2> 
 
-<p align="center"><img  width=50% src="https://raw.githubusercontent.com/XiaoYong666/OpenImage/master/Doc/me1.jpg">
+<p align="center"><img  width=50% src="https://raw.githubusercontent.com/XiaoYong666/OpenImage/master/myself/me1.jpg">
 <!--   <img align="right" width=50%  src="https://raw.githubusercontent.com/XiaoYong666/OpenImage/master/Doc/me2.jpg"> -->
 </p>
 
